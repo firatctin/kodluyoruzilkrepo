@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 
 
 
-![Resim1](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png)
+![Resim1](./%C3%B6rnek.PNG)
 
 ## Installation
 
